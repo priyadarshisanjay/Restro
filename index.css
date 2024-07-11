@@ -127,6 +127,9 @@ input{
     overflow: auto;
     background-color: rgba(0,0,0,0.4);
 }
+#pay{
+    text-align: center;
+}
 #thanks{
     display: none;
     text-align: center;
